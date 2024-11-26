@@ -1,5 +1,4 @@
-criaCartao(
-    'Geografua',
+'Geografia',
     'Em qual paÌs está localizado o maior prédio do mundo?',
     'Dubai'
 )
