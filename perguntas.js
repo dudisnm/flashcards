@@ -1,23 +1,23 @@
 criaCartao(
-    'Geografia',
-    'Em qual paìs està localizado o maior prèdio do mundo?',
-    'Dubai'
-)
-
-criaCartao(
-    'Tecnologia',
-    'O que è maior gigabayte ou megabayte?',
-    'Gigabayte '
+    'Programação',
+    'O que é Python?',
+    'O Python é uma linguagem de programação'
 )
 
 criaCartao(
     'Geografia',
-    'Quais são as duas lÌnguas mai faladas no mundo ?',
-    'Inglês e mandarim chinês'
+    'Qual a capital da França?',
+    'A capital da França é Paris'
 )
 
 criaCartao(
-    'Astrologia',
-    'Quais são as fases da lua?',
-    'Nova, crescente, minguante e cheia '
+    'Programação',
+    'O que é uma função?',
+    'Uma função é um bloco de código que executa alguma tarefa'
+)
+
+criaCartao(
+    'Lingua inglesa',
+    'Como se diz oi em Inglês?',
+    'Oi em ingles é HI (RAI)'
 )
